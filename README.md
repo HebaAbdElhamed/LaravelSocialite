@@ -1,3 +1,4 @@
 # laravelSocialite
- Laravel Socialite authentication
+ Laravel Socialite authentication and Jetstream
+ <br>
 Google Authentication - Facebook Authentication - Github Authentication
